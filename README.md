@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains about a deposit and loan management application in a village that nowhere. hehe.
+This repository contains about how authentication implementation works.
 
 # Tech Stack
 
